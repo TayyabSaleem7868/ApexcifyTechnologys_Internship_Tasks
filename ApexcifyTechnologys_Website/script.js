@@ -1,8 +1,6 @@
-// script.js
-// Enhanced JavaScript with all requested features
 
 document.addEventListener('DOMContentLoaded', function() {
-    // Initialize AOS (Animate On Scroll)
+    // Initialize AOS
     AOS.init({
         duration: 800,
         easing: 'ease-in-out',
